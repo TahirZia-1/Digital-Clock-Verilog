@@ -57,3 +57,5 @@ The included testbench (`digital_clock_tb.v`) provides a basic verification envi
 - Applies reset
 - Runs the clock for an extended period
 - Monitors time values and display outputs
+
+## The source files (Design and Testbench) are in "DigitalClock.srcs" folder.
